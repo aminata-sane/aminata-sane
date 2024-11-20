@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminata-sane&show_icons=true&theme=dracula)
 -->
 
-### 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 
+### 🦊 ~ _About me_~ 🦊  
 
 + 🔭 Actuellement étudiante à La Plateforme, où je développe mes compétences en programmation et en technologie.
   
@@ -34,6 +35,9 @@ Here are some ideas to get you started:
 + 📫 N'hésitez pas à me contacter pour collaborer ou simplement échanger : aminata-sane.@laplateforme.io
   
 + 💡 "L'apprentissage est une aventure sans fin, et je suis là pour l'explorer à fond."
+  
+
+### :computer: _Tech Stack_ :cd:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminata-sane&show_icons=true&theme=radical)
 
