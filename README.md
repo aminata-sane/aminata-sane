@@ -21,11 +21,19 @@ Here are some ideas to get you started:
 
 ### 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 
 
-+ 🔭 j'aime la Tech et apprendre de nouvelles choses
-+ 🌱 Actuellement en formation à lécole la Plateforme
-+ 💖Je suis Fan d'animés
-+ 😄 J'adore manger
-+ ⚡ Je suis Super Positive
++ 🔭 Actuellement étudiante à La Plateforme, où je développe mes compétences en programmation et en technologie.
+  
++ 🌱 J'adore apprendre, relever des défis et explorer le monde fascinant du développement logiciel.
+  
++ 💖 Grande fan d'animés, je trouve souvent l'inspiration dans leurs univers créatifs.
+  
++ 🍜 Épicurienne dans l'âme, j'apprécie les bons repas autant que les lignes de code bien écrites.
+  
++ ⚡ Toujours positive et motivée à partager mes découvertes et créations.
+  
++ 📫 N'hésitez pas à me contacter pour collaborer ou simplement échanger : aminata-sane.@laplateforme.io
+  
++ 💡 "L'apprentissage est une aventure sans fin, et je suis là pour l'explorer à fond."
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminata-sane&show_icons=true&theme=radical)
 
