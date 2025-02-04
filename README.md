@@ -53,7 +53,7 @@ Brouillon:
 
 + 🔭 Actuellement étudiante à La Plateforme, où je développe mes compétences en programmation et en technologie.
   
-+ 🌱 J'adore apprendre, relever des défis et explorer le monde fascinant du développement logiciel.
++ 🌱 J'adore apprendre, relever des défis et explorer le monde fascinant du développement logiciel et du système immersif.
   
 + 💖 Grande fan d'animés, je trouve souvent l'inspiration dans leurs univers créatifs.
   
