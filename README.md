@@ -2,6 +2,22 @@
 <h2 align="center" tabindex="-1" class="heading-element" dir="auto"> Hi there bienvenue sur ma page 👋 </h2>
 
 # 💫 About Me:
+
+🔭 Currently a student at La Plateforme, where I'm developing my programming and technology skills.
+
+🌱 I love learning, taking on challenges and exploring the fascinating world of software development.
+
+💖 A big anime fan, I often find inspiration in their creative worlds.
+
+🍜 Epicurean at heart, I appreciate good food as much as well-written lines of code.
+
+⚡ Always positive and motivated to share my discoveries and creations.
+
+📫 Don't hesitate to contact me to collaborate or simply exchange: aminata-sane.@laplateforme.io
+
+💡 “Learning is a never-ending adventure, and I'm here to explore it to the fullest.”
+
+
 🔭 Actuellement étudiante à La Plateforme, où je développe mes compétences en programmation et en technologie.<br><br>🌱 J'adore apprendre, relever des défis et explorer le monde fascinant du développement logiciel.<br><br>💖 Grande fan d'animés, je trouve souvent l'inspiration dans leurs univers créatifs.<br><br>🍜 Épicurienne dans l'âme, j'apprécie les bons repas autant que les lignes de code bien écrites.<br><br>⚡ Toujours positive et motivée à partager mes découvertes et créations.<br><br>📫 N'hésitez pas à me contacter pour collaborer ou simplement échanger : aminata-sane.@laplateforme.io<br><br>💡 "L'apprentissage est une aventure sans fin, et je suis là pour l'explorer à fond."
 
 
