@@ -1,5 +1,5 @@
 
-<h2 align="center" tabindex="-1" class="heading-element" dir="auto"> Hi there bienvenue sur ma page 👋 </h2>
+<h2 align="center" tabindex="-1" class="heading-element" dir="auto"> Hi there welcome to my page 👋 </h2>
 
 # 💫 About Me:
 
