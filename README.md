@@ -20,6 +20,8 @@
 _____________________________________________________________________________________
 
 
+# 💫 A propos de moi :
+
 🔭 Actuellement étudiante à La Plateforme, où je développe mes compétences en programmation et en technologie.<br><br>🌱 J'adore apprendre, relever des défis et explorer le monde fascinant du développement logiciel.<br><br>💖 Grande fan d'animés, je trouve souvent l'inspiration dans leurs univers créatifs.<br><br>🍜 Épicurienne dans l'âme, j'apprécie les bons repas autant que les lignes de code bien écrites.<br><br>⚡ Toujours positive et motivée à partager mes découvertes et créations.<br><br>📫 N'hésitez pas à me contacter pour collaborer ou simplement échanger : aminata-sane.@laplateforme.io<br><br>💡 "L'apprentissage est une aventure sans fin, et je suis là pour l'explorer à fond."
 
 
