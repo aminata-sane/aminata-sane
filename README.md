@@ -67,23 +67,6 @@ ________________________________________________________________________________
 Brouillon:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminata-sane&show_icons=true&theme=dracula)
-
-
-### 🦊 ~ _About me_~ 🦊  
-
-+ 🔭 Actuellement étudiante à La Plateforme, où je développe mes compétences en programmation et en technologie.
-  
-+ 🌱 J'adore apprendre, relever des défis et explorer le monde fascinant du développement logiciel et du système immersif.
-  
-+ 💖 Grande fan d'animés, je trouve souvent l'inspiration dans leurs univers créatifs.
-  
-+ 🍜 Épicurienne dans l'âme, j'apprécie les bons repas autant que les lignes de code bien écrites.
-  
-+ ⚡ Toujours positive et motivée à partager mes découvertes et créations.
-  
-+ 📫 N'hésitez pas à me contacter pour collaborer ou simplement échanger : aminata-sane.@laplateforme.io
-  
-+ 💡 "L'apprentissage est une aventure sans fin, et je suis là pour l'explorer à fond."
   
 
 ### :computer: _Tech Stack_ :cd:
